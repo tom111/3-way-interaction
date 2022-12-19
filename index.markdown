@@ -12,7 +12,7 @@ Here's our line-up:
 ## Next: January 13, 2023
 
 - Location:	MPI-MiS Leipzig
-- Speaker: [Peter Stadtler (U Leipzig)](https://www.bioinf.uni-leipzig.de/~studla/)
+- Speaker: [Peter Stadler (U Leipzig)](https://www.bioinf.uni-leipzig.de/~studla/)
   
 ## Outlook
   
