@@ -23,7 +23,7 @@ email: thomas.kahle@ovgu.de
 description: >- # this means to ignore newlines until "baseurl:"
   A research seminar on algebraic statistics.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tom111.github.io/3-way-interaction/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:
 show_downloads: false
