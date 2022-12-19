@@ -5,11 +5,7 @@
 layout: default
 ---
 
-Welcome to the webpage of our seminar.  Your organizers are
-
-- Carlos Amendola
-- Eliana Duarte
-- Thomas Kahle
+Welcome to the webpage of our seminar.  Your organizers are [Carlos Amendola](http://www.luke-amendola.appspot.com/), [Eliana Duarte](https://emduart2.github.io/) and [Thomas Kahle](https://thomas-kahle.de/).
 
 Here's our line-up:
 
