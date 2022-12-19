@@ -9,9 +9,10 @@ Welcome to the webpage of our seminar.  Your organizers are [Carlos Amendola](ht
 
 Here's our line-up:
 
-## Next: January 13, 2023
+## Next: January 16, 2023
 
 - Location:	MPI-MiS Leipzig
+- Time: 2pm
 - Speaker: [Peter Stadler (U Leipzig)](https://www.bioinf.uni-leipzig.de/~studla/)
   
 ## Outlook
