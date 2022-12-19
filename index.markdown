@@ -5,7 +5,13 @@
 layout: default
 ---
 
-Welcome to the webpage of our seminar.  Here's our line-up:
+Welcome to the webpage of our seminar.  Your organizers are
+
+- Carlos Amendola
+- Eliana Duarte
+- Thomas Kahle
+
+Here's our line-up:
 
 ## Next: January 13, 2023
 
