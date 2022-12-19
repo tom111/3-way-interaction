@@ -30,8 +30,8 @@ show_downloads: false
 
 
 # Build settings
-# theme: modernist ## non-functional
-remote_theme: pages-themes/modernist@v0.2.0
+# theme: modernist
+remote_theme: pages-themes/modernist
 plugins:
 - jekyll-remote-theme
 - jekyll-feed
