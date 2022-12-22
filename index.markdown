@@ -27,6 +27,6 @@ Here's our line-up:
 
 - April 24, 2023
   - Location: MPI-MiS Leipzig
-  - Speaker [Lior Pachter (CalTech)](https://pachterlab.github.io/)
+  - Speaker [Lior Pachter (CalTech, to be confirmed)](https://pachterlab.github.io/)
   
 
