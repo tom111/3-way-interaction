@@ -14,6 +14,19 @@ Here's our line-up:
 - Location:	MPI-MiS Leipzig
 - Time: 2pm
 - Speaker: [Peter Stadler (U Leipzig)](https://www.bioinf.uni-leipzig.de/~studla/)
+- Title: Relational Data in Phylogentics
+- Abstract: In the course of investigation evolutionary relationships found in 
+the genomes a set of species, several binary relations appear.
+For example "best matches" refer pairs of genes x and y so that 
+y is one of the closest relatives of x in the species that harbors y.
+Orthology designates pairs of genes whose last common ancestor 
+is a speciation event. Horizontal gene transfer is related to 
+the lower diverence time relation, satisfied by a pair of genes 
+that is younger than the divergence of the species in which they
+reside. I will sketch the connections between the relations and 
+the the information that they convey about the gene trees, the 
+phylogeny of the underlying species, and the reconciliation of 
+gene and species trees. 
   
 ## Outlook
   
