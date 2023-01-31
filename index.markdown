@@ -9,9 +9,18 @@ Welcome to the webpage of our seminar.  Your organizers are [Carlos Amendola](ht
 
 Here's our line-up:
 
-## Next: February 13, 2023 at TU Berlin
+## Next: *February 20*, 2023 at TU Berlin (!!changed from Feb 13!!)
   - Location: TU Berlin
   - Speaker: [Paul Breiding (U Osnabrück)](https://pbrdng.github.io/index.html)
+  - Title: Algebraic Compressed Sensing
+  - Abstract: We introduce the broad subclass of algebraic compressed
+    sensing problems, where structured signals are modeled either
+    explicitly or implicitly via polynomials. This includes, for
+    instance, low-rank matrix and tensor recovery. We employ powerful
+    techniques from algebraic geometry to study well-posedness of
+    sufficiently general compressed sensing problems, including
+    existence, local recoverability, global uniqueness, and local
+    smoothness.
 
 ## Outlook
   
