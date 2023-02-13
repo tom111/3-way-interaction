@@ -27,6 +27,8 @@ Here's our line-up:
 - March 13, 2023
   - Location: MPI-MiS Leipzig
   - Speaker: [Jane Coons (U Oxford)](https://www.sjc.ox.ac.uk/discover/people/jane-coons/)
+  - Title: Rational partition models under iterative proportional scaling
+  - Abstract: The classical iterative proportional scaling algorithm, or IPS, numerically computes the maximum likelihood estimate of a given vector of counts for a log-linear partition model. We investigate the conditions under which IPS produces the exact maximum likelihood estimate, or MLE, in finitely many steps. Since IPS produces a rational function at each step, a necessary condition is that the model must have rational maximum likelihood estimator. However, the convergence is highly parametrization-dependent; indeed, one parametrization of a model may exhibit exact convergence in finitely many steps while another does not. We introduce the generalized running intersection property, which guarantees exact convergence of IPS. As the name suggests, this strictly generalizes the well-known running intersection property for hierarchical models. This generalized running intersection property can be understood in terms of the toric geometry of the log-linear model, and models that satisfy this property can be obtained by performing repeated toric fiber products of linear ideals. We also draw connections between models that satisfy the generalized running intersection property and balanced, stratified staged trees.
 
 - April 24, 2023
   - Location: MPI-MiS Leipzig
