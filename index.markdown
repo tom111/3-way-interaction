@@ -10,7 +10,8 @@ Welcome to the webpage of our seminar.  Your organizers are [Carlos Amendola](ht
 Here's our line-up:
 
 ## Next: *February 20*, 2023 at TU Berlin (!!changed from Feb 13!!)
-  - Location: TU Berlin
+  - Location: TU Berlin, Math Building, MA 608
+  - Time: 14:00 - 15:00
   - Speaker: [Paul Breiding (U Osnabrück)](https://pbrdng.github.io/index.html)
   - Title: Algebraic Compressed Sensing
   - Abstract: We introduce the broad subclass of algebraic compressed
@@ -21,6 +22,8 @@ Here's our line-up:
     sufficiently general compressed sensing problems, including
     existence, local recoverability, global uniqueness, and local
     smoothness.
+  - Notes: There will be a pretalk aimed at students taking place at 11:30-12:00 in MA 608, this
+  will be followed by lunch 12:15-13:45. At 17:30 we will walk to have dinner nearby. You are welcome to join!
 
 ## Outlook
   
