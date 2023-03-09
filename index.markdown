@@ -22,6 +22,10 @@ Here's our line-up:
   - Location: MPI-MiS Leipzig
   - Speaker [Lior Pachter (CalTech)](https://pachterlab.github.io/)
   
+- May 25, 2023
+  - Location: OvGU Magdeburg
+  - Speakers: [Anja Janßen](https://www.math.ovgu.de/profjanssen.html) and Felix Reinbott.
+  
 ## Past events
 
 - February 20, 2023 at TU Berlin
