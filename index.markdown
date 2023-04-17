@@ -9,8 +9,48 @@ Welcome to the webpage of our seminar.  Your organizers are [Carlos Amendola](ht
 
 Here's our line-up:
 
-## Next: *February 20*, 2023 at TU Berlin (!!changed from Feb 13!!)
-  - Location: TU Berlin
+## Next: April 24, 2023
+- Location: MPI-MiS Leipzig
+- Pretalk at 11:30
+- Main Talk at 14:00
+- Speaker [Lior Pachter (CalTech)](https://pachterlab.github.io/)
+
+## Outlook
+- May 25, 2023
+  - Location: OvGU Magdeburg
+  - Speakers: [Anja Janßen](https://www.math.ovgu.de/profjanssen.html) and Felix Reinbott.
+  
+## Past events
+- March 13, 2023 at MPI-MiS Leipzig
+  - Location: MPI-MiS Leipzig
+  - Time: 10:00 am
+  - Speaker: [Jane Coons (U Oxford)](https://www.sjc.ox.ac.uk/discover/people/jane-coons/)
+  - Title: Rational partition models under iterative proportional scaling
+  - Abstract: The classical iterative proportional scaling algorithm,
+    or IPS, numerically computes the maximum likelihood estimate of a
+    given vector of counts for a log-linear partition model. We
+    investigate the conditions under which IPS produces the exact
+    maximum likelihood estimate, or MLE, in finitely many steps. Since
+    IPS produces a rational function at each step, a necessary
+    condition is that the model must have rational maximum likelihood
+    estimator. However, the convergence is highly
+    parametrization-dependent; indeed, one parametrization of a model
+    may exhibit exact convergence in finitely many steps while another
+    does not. We introduce the generalized running intersection
+    property, which guarantees exact convergence of IPS. As the name
+    suggests, this strictly generalizes the well-known running
+    intersection property for hierarchical models. This generalized
+    running intersection property can be understood in terms of the
+    toric geometry of the log-linear model, and models that satisfy
+    this property can be obtained by performing repeated toric fiber
+    products of linear ideals. We also draw connections between models
+    that satisfy the generalized running intersection property and
+    balanced, stratified staged trees.
+
+
+- February 20, 2023 at TU Berlin
+  - Location: TU Berlin, Math Building, MA 608
+  - Time: 14:00 - 15:00
   - Speaker: [Paul Breiding (U Osnabrück)](https://pbrdng.github.io/index.html)
   - Title: Algebraic Compressed Sensing
   - Abstract: We introduce the broad subclass of algebraic compressed
@@ -21,18 +61,8 @@ Here's our line-up:
     sufficiently general compressed sensing problems, including
     existence, local recoverability, global uniqueness, and local
     smoothness.
-
-## Outlook
-  
-- March 13, 2023
-  - Location: MPI-MiS Leipzig
-  - Speaker: [Jane Coons (U Oxford)](https://www.sjc.ox.ac.uk/discover/people/jane-coons/)
-
-- April 24, 2023
-  - Location: MPI-MiS Leipzig
-  - Speaker [Lior Pachter (CalTech)](https://pachterlab.github.io/)
-  
-## Past events
+  - Notes: There will be a pretalk aimed at students taking place at 11:30-12:00 in MA 608, this
+  will be followed by lunch 12:15-13:45. At 17:30 we will walk to have dinner nearby. You are welcome to join!
 
 - January 16, 2023, MPI-MiS Leipzig
   - Speaker: [Peter Stadler (U Leipzig)](https://www.bioinf.uni-leipzig.de/~studla/)
