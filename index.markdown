@@ -14,6 +14,8 @@ Here's our line-up:
 - Pretalk at 11:30
 - Main Talk at 14:00
 - Speaker [Lior Pachter (CalTech)](https://pachterlab.github.io/)
+- Title: The chemical master equation and its application to genomics
+- Abstract: Chemical master equations (CMEs) are of great interest in systems biology where they are used to model transcriptional dynamics. I will explain how CMEs arise naturally in attempts to interpret and analyze single-cell genomics data, and then survey some of interesting mathematics and statistics questions that emerge as a result.
 
 ## Outlook
 - May 25, 2023
