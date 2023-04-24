@@ -9,20 +9,19 @@ Welcome to the webpage of our seminar.  Your organizers are [Carlos Amendola](ht
 
 Here's our line-up:
 
-## Next: April 24, 2023
-- Location: MPI-MiS Leipzig
-- Pretalk at 11:30
-- Main Talk at 14:00
-- Speaker [Lior Pachter (CalTech)](https://pachterlab.github.io/)
-- Title: The chemical master equation and its application to genomics
-- Abstract: Chemical master equations (CMEs) are of great interest in systems biology where they are used to model transcriptional dynamics. I will explain how CMEs arise naturally in attempts to interpret and analyze single-cell genomics data, and then survey some of interesting mathematics and statistics questions that emerge as a result.
+## Next: May 25, 2023
+  - Location: OvGU Magdeburg
+  - Speaker: [Simon Telen](https://simontelen.webnode.page/)
 
 ## Outlook
-- May 25, 2023
-  - Location: OvGU Magdeburg
-  - Speakers: [Anja Janßen](https://www.math.ovgu.de/profjanssen.html) and Felix Reinbott.
+- June 28/29 in Magdeburg: [24 hours of combinatorial synergies](https://www.combinatorial-synergies.de/2023-06_WorkshopMagdeburg.html).
   
 ## Past events
+- April 24, 2023, 1:30pm at MPI-MiS Leipzig
+  - Speaker [Lior Pachter (CalTech)](https://pachterlab.github.io/)
+  - Title: The chemical master equation and its application to genomics
+  - Abstract: Chemical master equations (CMEs) are of great interest in systems biology where they are used to model transcriptional dynamics. I will explain how CMEs arise naturally in attempts to interpret and analyze single-cell genomics data, and then survey some of interesting mathematics and statistics questions that emerge as a result.
+  
 - March 13, 2023 at MPI-MiS Leipzig
   - Location: MPI-MiS Leipzig
   - Time: 10:00 am
