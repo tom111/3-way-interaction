@@ -10,8 +10,9 @@ Welcome to the webpage of our seminar.  Your organizers are [Carlos Amendola](ht
 Here's our line-up:
 
 ## Next: May 25, 2023
-  - Location: OvGU Magdeburg
-  - Speaker: [Simon Telen](https://simontelen.webnode.page/)
+  - Location: 🔴 MPI-MiS Leipzig 🔴 (changed)
+  - Morning: Algebraic Statistics Reading Group special session
+  - Afternoon Speaker: [Simon Telen](https://simontelen.webnode.page/)
 
 ## Outlook
 - June 28/29 in Magdeburg: [24 hours of combinatorial synergies](https://www.combinatorial-synergies.de/2023-06_WorkshopMagdeburg.html).
