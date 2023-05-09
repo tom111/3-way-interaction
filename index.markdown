@@ -17,7 +17,7 @@ Here's our line-up:
 	- Abstract: Entropic regularization for linear programming leads to intersecting a toric variety with the feasible polytope. In semidefinite programming, the toric variety is replaced by a new geometric object, called Gibbs manifold, and the feasible polytope becomes a spectrahedron. I will explain these concepts and present the example of (quantum) optimal transport. This is based on joint work with Dmitrii Pavlov, Bernd Sturmfels, François-Xavier Vialard and Max von Renesse.
 
 ## Outlook
-- June 28/29 in Magdeburg: [24 hours of combinatorial synergies](https://www.combinatorial-synergies.de/2023-06_WorkshopMagdeburg.html)
+- June 28/29 in Magdeburg: [24 hours of combinatorial synergies](https://www.combinatorial-synergies.de/activities/2023-06_WorkshopMagdeburg/)
   
 ## Past events
 - April 24, 2023, 1:30pm at MPI-MiS Leipzig
