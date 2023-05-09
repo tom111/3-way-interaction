@@ -12,7 +12,9 @@ Here's our line-up:
 ## Next: May 25, 2023
   - Location: 🔴 MPI-MiS Leipzig 🔴 (changed)
   - Morning: Algebraic Statistics Reading Group special session
-  - Afternoon Speaker: [Simon Telen](https://simontelen.webnode.page/)
+  - 1:30 pm: [Simon Telen](https://simontelen.webnode.page/)
+	- Title: Toric varieties and Gibbs Manifolds in Convex Optimization
+	- Abstract: Entropic regularization for linear programming leads to intersecting a toric variety with the feasible polytope. In semidefinite programming, the toric variety is replaced by a new geometric object, called Gibbs manifold, and the feasible polytope becomes a spectrahedron. I will explain these concepts and present the example of (quantum) optimal transport. This is based on joint work with Dmitrii Pavlov, Bernd Sturmfels, François-Xavier Vialard and Max von Renesse.
 
 ## Outlook
 - June 28/29 in Magdeburg: [24 hours of combinatorial synergies](https://www.combinatorial-synergies.de/2023-06_WorkshopMagdeburg.html).
